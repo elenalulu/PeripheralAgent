@@ -4,7 +4,7 @@ import os
 
 
 client = OpenAI(
-    api_key = "sk-c9c3282c11bf48d8aab2d89221ce7d8a", #aliyun api
+    api_key = "your aliyun api", #aliyun api
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 
