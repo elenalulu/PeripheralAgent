@@ -11,11 +11,19 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 -----------------
 
 ## Usage
+<br>
+1. excel use example:
 
 <div>
 	<p align="center">
-  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/ui.png" width="660" />
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/excel.png" width="660" />
   </p>
 </div>
 
 <br>
+2. ppt use example:
+<div>
+	<p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/ppt.png" width="660" />
+  </p>
+</div>
