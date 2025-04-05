@@ -53,8 +53,11 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 
 
 ## Contact
-<img src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/wechat.png" width="200" />
-
+<div>
+  <p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/wechat.jpg" width="200" />
+  </p>
+</div>
 
 ## Reference
 Thanks for https://github.com/taojy123/KeymouseGo, for any detail about keymousego, please read the project.
