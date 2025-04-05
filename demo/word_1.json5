@@ -327,6 +327,117 @@
       type: "event",
     },
     {
+      delay: 95,
+      event_type: "EK",
+      action_type: "key down",
+      action: [
+        67,
+        "C",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 138,
+      event_type: "EK",
+      action_type: "key up",
+      action: [
+        67,
+        "C",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 95,
+      event_type: "EK",
+      action_type: "key down",
+      action: [
+        69,
+        "E",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 138,
+      event_type: "EK",
+      action_type: "key up",
+      action: [
+        69,
+        "E",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 533,
+      event_type: "EK",
+      action_type: "key down",
+      action: [
+        83,
+        "S",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 109,
+      event_type: "EK",
+      action_type: "key up",
+      action: [
+        83,
+        "S",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 129,
+      event_type: "EK",
+      action_type: "key down",
+      action: [
+        72,
+        "H",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 127,
+      event_type: "EK",
+      action_type: "key up",
+      action: [
+        72,
+        "H",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 95,
+      event_type: "EK",
+      action_type: "key down",
+      action: [
+        73,
+        "I",
+        0,
+      ],
+      type: "event",
+    },
+    {
+      delay: 138,
+      event_type: "EK",
+      action_type: "key up",
+      action: [
+        73,
+        "I",
+        0,
+      ],
+      type: "event",
+    },
+
+    {
       delay: 1088,
       event_type: "EK",
       action_type: "key down",
