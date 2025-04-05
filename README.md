@@ -38,3 +38,18 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 3. then run the command in terminal: python peripheral_agent.py
    you can ajust your scripts by hand or by LLM to optimize the effect
 4. there is a demo scripts by simply python peripheral_agent.py without record actions 
+
+
+## Contact
+
+<img src="docs/wechat.jpg" width="200" />
+
+
+## License
+
+The product is licensed under The Apache License 2.0, which allows for free commercial use. Please include the link to PaperChat and the licensing terms in your product description.
+
+
+## Contribute
+
+The project code is still quite raw. If anyone makes improvements to the code, we welcome contributions back to this project.
