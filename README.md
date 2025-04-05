@@ -53,7 +53,7 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 
 
 ## Contact
-<img src="docs/wechat.jpg" width="200" />
+<img src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/wechat.png" width="200" />
 
 
 ## Reference
