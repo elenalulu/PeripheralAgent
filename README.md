@@ -33,16 +33,31 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
    b. click the Record button to start recording
    c. perform any actions on the computer, such as clicking the mouse or typing on the keyboard
    d. click the End button to stop recording
+   <div>
+	<p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/use_record.png" width="660" />
+  </p>
+</div>
+
 2. add more action through asking LLM, there is an api example in action_deepseek.py
    put the action json in ./keymousego/scripts by sequence
+    <div>
+	<p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/use_deepseek.png" width="660" />
+  </p>
+</div>
+
 3. then run the command in terminal: python peripheral_agent.py
    you can ajust your scripts by hand or by LLM to optimize the effect
 4. there is a demo scripts by simply python peripheral_agent.py without record actions 
 
 
 ## Contact
-
 <img src="docs/wechat.jpg" width="200" />
+
+
+## Reference
+Thanks for https://github.com/taojy123/KeymouseGo, for any detail about keymousego, please read the project.
 
 
 ## License
