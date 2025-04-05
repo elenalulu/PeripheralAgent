@@ -28,3 +28,13 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 
 
 ## How to use
+1. record your repetitive action by KeymouseGo.exe
+   a. open KeymouseGo.exe in keymousego folder
+   b. click the Record button to start recording
+   c. perform any actions on the computer, such as clicking the mouse or typing on the keyboard
+   d. click the End button to stop recording
+2. add more action through asking LLM, there is an api example in action_deepseek.py
+   put the action json in ./keymousego/scripts by sequence
+3. then run the command in terminal: python peripheral_agent.py
+   you can ajust your scripts by hand or by LLM to optimize the effect
+4. there is a demo scripts by simply python peripheral_agent.py without record actions 

@@ -9,8 +9,6 @@ client = OpenAI(
 )
 
 
-scrip_demo = '{  scripts: [    { delay: 50, event_type: "EK", action_type: "key down", action: [67, "C", 0], type: "event" },   ],}'
-
 scrip_demo = '''{
   scripts: [
     {
