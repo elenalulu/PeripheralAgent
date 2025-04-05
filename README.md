@@ -4,7 +4,7 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 
 <div>
 	<p align="center">
-  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/logo.png" width="660" />
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/demo.mp4" width="660" />
   </p>
 </div>
 
