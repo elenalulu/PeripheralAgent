@@ -52,6 +52,14 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 4. there is a demo scripts by simply python demo.py without record actions 
 
 
+## PPT demo
+you can record your own action to create and modify a PPT file with this project.
+Here is an example to simplify the record process:
+1. cd ppt_demo
+2. python record_jsons_ppt.py (clean the script_ppt file except ppt_1_1_0create.json5 before run this)
+3. python agent_ppt_demo.py
+
+
 ## Contact
 <div>
   <p align="center">
