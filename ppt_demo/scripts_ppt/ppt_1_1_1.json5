@@ -1,0 +1,408 @@
+{
+      "scripts": [
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [68,
+                "D",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [68,
+                "D",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [32,
+                " ",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [32,
+                " ",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [77,
+                "M",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [77,
+                "M",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [79,
+                "O",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [79,
+                "O",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [88,
+                "X",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [88,
+                "X",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [73,
+                "I",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [73,
+                "I",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [78,
+                "N",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [78,
+                "N",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [71,
+                "G",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [71,
+                "G",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [32,
+                " ",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [32,
+                " ",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [70,
+                "F",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [70,
+                "F",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [90,
+                "Z",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [90,
+                "Z",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [72,
+                "H",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [72,
+                "H",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [65,
+                "A",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [78,
+                "N",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [78,
+                "N",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [83,
+                "S",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [83,
+                "S",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [72,
+                "H",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [72,
+                "H",
+                0
+              ],
+              "type": "event"
+            },
+{
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key down",
+              "action": [73,
+                "I",
+                0
+              ],
+              "type": "event"
+            },
+            {
+              "delay": 20,
+              "event_type": "EK",
+              "action_type": "key up",
+              "action": [73,
+                "I",
+                0
+              ],
+              "type": "event"
+            },
+
+
+        {
+          delay: 200,
+          event_type: "EK",
+          action_type: "key down",
+          action: [
+            32,
+            "Space",
+            0,
+          ],
+          type: "event",
+        },
+        {
+          delay: 20,
+          event_type: "EK",
+          action_type: "key up",
+          action: [
+            32,
+            "Space",
+            0,
+          ],
+          type: "event",
+        },
+      ],
+    }

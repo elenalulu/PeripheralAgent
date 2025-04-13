@@ -1,0 +1,28 @@
+{
+      "scripts": [
+
+
+        {
+          delay: 200,
+          event_type: "EK",
+          action_type: "key down",
+          action: [
+            32,
+            "Space",
+            0,
+          ],
+          type: "event",
+        },
+        {
+          delay: 20,
+          event_type: "EK",
+          action_type: "key up",
+          action: [
+            32,
+            "Space",
+            0,
+          ],
+          type: "event",
+        },
+      ],
+    }
