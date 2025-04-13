@@ -40,7 +40,7 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 </div>
 
 2. add more action through asking LLM, there is an api example in action_deepseek.py
-   put the action json in ./keymousego/scripts by sequence
+   put the action json in ./keymousego/scripts by sequence, or your can simply ask website deepseek to get the action scripts. Please notice that current LLM cannot produce accurate actions, so recommend to use .py in demo foler to get better action scripts.
     <div>
 	<p align="center">
   <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/use_deepseek.png" width="660" />
