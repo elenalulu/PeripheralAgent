@@ -59,6 +59,8 @@ Here is an example to simplify the record process:
 2. python record_jsons_ppt.py 
 3. python agent_ppt_demo.py
 
+if you want to create your own ppt content by deepseek, please modify the record_jsons_ppt.py by filling in the api and free the code available.
+
 
 ## Contact
 <div>
