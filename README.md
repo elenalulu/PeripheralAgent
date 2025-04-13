@@ -61,6 +61,8 @@ Here is an example to simplify the record process:
 
 if you want to create your own ppt content by deepseek, please modify the record_jsons_ppt.py by filling in the api and free the code available.
 
+<video width="630" height="300" src="https://github.com/user-attachments/assets/e8cd815e-096f-4a2c-980a-ca8d0bdc654b"></video>
+
 
 ## Contact
 <div>
