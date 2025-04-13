@@ -49,8 +49,6 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
 
 3. then run the command in terminal: python peripheral_agent.py
    you can ajust your scripts by hand or by LLM to optimize the effect
-4. there is a demo scripts by simply python demo.py without record actions 
-
 
 ## PPT demo
 you can record your own action to create and modify a PPT file with this project.
