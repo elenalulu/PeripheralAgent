@@ -298,7 +298,7 @@ for i in range(0, len(page_list)):
     title_letter = json_letter(title)
     ppt_name = 'ppt_' + str(i+1) + '_1_1.json5' 
     ppt_name = '../keymousego/scripts/' + ppt_name
-    with open(ppt_name, 'a+', encoding='utf-8') as fl:
+    with open(ppt_name, 'w+', encoding='utf-8') as fl:
       fl.write(title_letter)
 
     content = page_raw[2]
@@ -308,7 +308,7 @@ for i in range(0, len(page_list)):
     content_letter = json_letter(content)
     ppt_name = 'ppt_' + str(i+1) + '_2_1.json5' 
     ppt_name = '../keymousego/scripts/' + ppt_name
-    with open(ppt_name, 'a+', encoding='utf-8') as fl:
+    with open(ppt_name, 'w+', encoding='utf-8') as fl:
       fl.write(content_letter)
 
     create_1_0 = '''{
@@ -503,7 +503,7 @@ for i in range(0, len(page_list)):
     if i != 0:
       ppt_name = 'ppt_' + str(i+1) + '_1_0.json5' 
       ppt_name = '../keymousego/scripts/' + ppt_name
-      with open(ppt_name, 'a+', encoding='utf-8') as fl:
+      with open(ppt_name, 'w+', encoding='utf-8') as fl:
           fl.write(create_1_0)
 
 
@@ -584,5 +584,5 @@ for i in range(0, len(page_list)):
 
     ppt_name = 'ppt_' + str(i+1) + '_2_0.json5' 
     ppt_name = '../keymousego/scripts/' + ppt_name
-    with open(ppt_name, 'a+', encoding='utf-8') as fl:
+    with open(ppt_name, 'w+', encoding='utf-8') as fl:
         fl.write(create_2_0)
