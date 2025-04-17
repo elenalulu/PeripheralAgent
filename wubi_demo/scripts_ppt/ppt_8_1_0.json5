@@ -1,0 +1,188 @@
+{
+      scripts: [
+        {
+          delay: 207,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.7296875%",
+            "0.4675%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 200,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.60390625%",
+            "0.6775%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 200,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.476171875%",
+            "0.72%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 184,
+          event_type: "EM",
+          action_type: "mouse left down",
+          action: [
+            "0.4359375%",
+            "0.733125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 113,
+          event_type: "EM",
+          action_type: "mouse left up",
+          action: [
+            "0.4359375%",
+            "0.733125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 231,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.4359375%",
+            "0.733125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 225,
+          event_type: "EM",
+          action_type: "mouse left down",
+          action: [
+            "0.430078125%",
+            "0.74125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 95,
+          event_type: "EM",
+          action_type: "mouse left up",
+          action: [
+            "0.430078125%",
+            "0.74125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 952,
+          event_type: "EM",
+          action_type: "mouse left down",
+          action: [
+            "0.430078125%",
+            "0.74125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 137,
+          event_type: "EM",
+          action_type: "mouse left up",
+          action: [
+            "0.430078125%",
+            "0.74125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 20,
+          event_type: "EK",
+          action_type: "key down",
+          action: [
+            162,
+            "Lcontrol",
+            1,
+          ],
+          type: "event",
+        },
+        {
+          delay: 119,
+          event_type: "EK",
+          action_type: "key down",
+          action: [
+            77,
+            "M",
+            0,
+          ],
+          type: "event",
+        },
+        {
+          delay: 20,
+          event_type: "EK",
+          action_type: "key up",
+          action: [
+            162,
+            "Lcontrol",
+            1,
+          ],
+          type: "event",
+        },
+        {
+          delay: 128,
+          event_type: "EK",
+          action_type: "key up",
+          action: [
+            77,
+            "M",
+            0,
+          ],
+          type: "event",
+        },
+        {
+          delay: 634,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.430078125%",
+            "0.74125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 201,
+          event_type: "EM",
+          action_type: "mouse move",
+          action: [
+            "0.385546875%",
+            "0.428125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 280,
+          event_type: "EM",
+          action_type: "mouse left down",
+          action: [
+            "0.389453125%",
+            "0.363125%",
+          ],
+          type: "event",
+        },
+        {
+          delay: 87,
+          event_type: "EM",
+          action_type: "mouse left up",
+          action: [
+            "0.389453125%",
+            "0.363125%",
+          ],
+          type: "event",
+        },
+      ],
+    }

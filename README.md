@@ -51,16 +51,37 @@ Agent that can mimic human computer use by simple keymouse action. For more agen
    you can ajust your scripts by hand or by LLM to optimize the effect
 
 ## PPT demo
-you can record your own action to create and modify a PPT file with this project.
+You can record your own action to create and modify a PPT file with this project.
 Here is an example to simplify the record process:
 1. cd ppt_demo
 2. python record_jsons_ppt.py 
-3. python agent_ppt_demo.py
+3. python agent_demo_ppt.py
 
 if you want to create your own ppt content by deepseek, please modify the record_jsons_ppt.py by filling in the api and free the code available.
 
 <video width="630" height="300" src="https://github.com/user-attachments/assets/e8cd815e-096f-4a2c-980a-ca8d0bdc654b"></video>
 
+
+## wubi demo
+To enhance the input chinese accuracy, we use wubi input method. Please install sogou wubi from https://wubi.sogou.com/.
+
+and set the sogou wubi input setting as followings:
+
+<div>
+  <p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/wubi1.png" width="660" />
+  </p>
+</div>
+<div>
+  <p align="center">
+  <img alt="Animation Demo" src="https://github.com/elenalulu/PeripheralAgent/blob/main/docs/wubi2.png" width="660" />
+  </p>
+</div>
+
+then,
+1. cd wubi_demo
+2. python record_jsons_wubi.py 
+3. python agent_demo_wubi.py
 
 ## Contact
 <div>
